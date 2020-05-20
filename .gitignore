@@ -1,0 +1,5 @@
+*.ipynb
+!tech4mentalhealth.ipynb
+!submissions/updated_ss.csv
+submissions/*
+.ipynb_checkpoints/*
